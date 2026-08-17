@@ -13,11 +13,6 @@ The goal of this challenge is to consistently practice Data Science for 60 days 
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Python Fundamentals – Core Syntax | ✅ Completed |
-| Day 2 | Coming Soon | ⏳ |
-| Day 3 | Coming Soon | ⏳ |
-| Day 4 | Coming Soon | ⏳ |
-| ... | ... | ⏳ |
-| Day 60 | Final Project / Review | ⏳ |
 
 ## 📚 Day 1 – Python Fundamentals
 
